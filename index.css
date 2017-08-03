@@ -25,6 +25,6 @@ form{
   overflow: hidden;
 }
 input{
-  float: right;
+  float: center;
   clear: both;
 }

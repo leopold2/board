@@ -21,7 +21,9 @@ tr:nth-child(even) td:nth-child(odd),
 tr:nth-child(odd) td:nth-child(even){
   background: #444;
 }
-
+form{
+  overflow: hidden;
+}
 input{
   float: right;
   clear: both;

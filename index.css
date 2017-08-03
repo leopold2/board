@@ -21,3 +21,8 @@ tr:nth-child(even) td:nth-child(odd),
 tr:nth-child(odd) td:nth-child(even){
   background: #444;
 }
+
+input{
+  float: right;
+  clear: both;
+}
